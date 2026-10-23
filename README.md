@@ -3,6 +3,7 @@
 A data analysis project using a year of real transactions from a UK online gift retailer.
 
 **Tools:** Python (Pandas) · SQL (SQLite) · Power BI
+
 ![BasketIQ dashboard](Dashboard.png)
 
 ---
